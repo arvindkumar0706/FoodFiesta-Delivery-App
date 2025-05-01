@@ -1,0 +1,114 @@
+{
+  "project_info": {
+    "project_number": "270094502602",
+    "firebase_url": "https://foodfiesta-969e5-default-rtdb.firebaseio.com",
+    "project_id": "foodfiesta-969e5",
+    "storage_bucket": "foodfiesta-969e5.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:270094502602:android:0e7a0506af88aa52b74233",
+        "android_client_info": {
+          "package_name": "com.example.adminfoodfiesta"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "270094502602-152c4as9mjt9omuhej7ect0lkc1h4uij.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.adminfoodfiesta",
+            "certificate_hash": "8ef4b0230921b183c0dcd5d37fa4374439158944"
+          }
+        },
+        {
+          "client_id": "270094502602-01tho7ohhgvp3fj47nvnm4p47uj5lohv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQ4RkVjpbR3kSRIOKsByS5IdSviKeoyv4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "270094502602-01tho7ohhgvp3fj47nvnm4p47uj5lohv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:270094502602:android:6a9e6a674ce52870b74233",
+        "android_client_info": {
+          "package_name": "com.example.foodfiesta"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "270094502602-7fp37fg7vii6f5nk68bv30r35cbvtkgj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.foodfiesta",
+            "certificate_hash": "8ef4b0230921b183c0dcd5d37fa4374439158944"
+          }
+        },
+        {
+          "client_id": "270094502602-01tho7ohhgvp3fj47nvnm4p47uj5lohv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQ4RkVjpbR3kSRIOKsByS5IdSviKeoyv4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "270094502602-01tho7ohhgvp3fj47nvnm4p47uj5lohv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:270094502602:android:5808bf0140e121abb74233",
+        "android_client_info": {
+          "package_name": "com.example.foodfiestadelivery"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "270094502602-01tho7ohhgvp3fj47nvnm4p47uj5lohv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQ4RkVjpbR3kSRIOKsByS5IdSviKeoyv4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "270094502602-01tho7ohhgvp3fj47nvnm4p47uj5lohv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
